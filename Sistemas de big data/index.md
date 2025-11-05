@@ -1,3 +1,3 @@
 # Sistemas de Big Data
 
- - [UT02](./UT02/UT02.md)
+ - [UT02](./UT02/)
