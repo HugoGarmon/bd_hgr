@@ -1,4 +1,4 @@
 # Especializacion en big data
 
-- [Big Data aplicado](./Big%20data%20aplicado/index.md)
-- [Sistemas de Big Data](./Sistemas%20de%20big%20data/index.md)
+- [Big Data aplicado](./Big_ata_Aplicado/index.md) 
+- [Sistemas de Big Data](./Sistemas_de_Big_Data/index.md)
