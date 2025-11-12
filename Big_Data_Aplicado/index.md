@@ -1,3 +1,3 @@
 # Big Data aplicado
 
-[Practicas Hadoop](./Practicas%20hadoop/index.md)
+[Practicas Hadoop](./Practicas_hadoop/index.md)
