@@ -1,17 +1,12 @@
 #!/usr/bin/env python3
 
-
 import sys
-
 
 first = True
 
-for line in  sys.stdin:
-    
+for line in sys.stdin:
     if first == True:
         first = False
         continue
-
     line = line.strip().split(',')
-    print(f"{line[1]}\t{line[7]}")    
-
+    print(f"{line[3]},{line[6]},{line[7]}")    
