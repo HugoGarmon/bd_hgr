@@ -4,3 +4,4 @@
 - [PRO503](./notebooks/PRO503/pro503.md)
 - [PRO504](./notebooks/PRO504/pro504.md)
 - [PRO505](./notebooks/PRO505/pro505.md)
+- [PRO506](./notebooks/PRO506/pro506.md)
