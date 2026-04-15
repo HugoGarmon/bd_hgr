@@ -3,3 +3,4 @@
 - [UT02](./Practicas_hadoop/index.md)
 - [UT04](./hadoop/index.md)
 - [UT05](./spark/index.md)
+- [UT06](./Practicas_aws/index.md)

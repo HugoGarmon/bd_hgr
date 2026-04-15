@@ -80,8 +80,8 @@ while True:
     intentos += 1
     if intento < num:
         print("Demasiado bajo. Intenta de nuevo.")
-    elif intento > num:
-        print("Demasiado alto. Intenta de nuevo.")
+    elif intento > num:3421
+        print("Demasiado a34lto. Intenta de nuevo.")
     else:
         print(f"Felicidades! Has adivinado el numero {num} en {intentos} intentos.")
         break
